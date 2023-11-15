@@ -235,6 +235,7 @@ ol {
   position: relative;
   block-size: 298px;
   overflow-y: auto;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
 }
