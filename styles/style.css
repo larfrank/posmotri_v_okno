@@ -55,7 +55,6 @@ ol {
 }
 
 .result__video {
-  position: absolute;
   inset: 0;
   inline-size: 100%;
   block-size: 100%;
@@ -238,10 +237,6 @@ ol {
   overflow-x: hidden;
   display: flex;
   flex-direction: column;
-}
-
-.content__list::-webkit-scrollbar {
-  inline-size: 0;
 }
 
 .content__list-item:not(:last-child) {
