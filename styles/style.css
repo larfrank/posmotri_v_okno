@@ -95,6 +95,7 @@ ol {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
+  color: inherit;
   font-family: inherit;
   font-size: 18px;
   font-style: normal;
